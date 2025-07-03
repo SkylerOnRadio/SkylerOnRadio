@@ -11,8 +11,8 @@ My interest lies in the field of Near-field communication and cybersecurity. I m
 
 --------
 
-<details>
-  <summary>### Skills</summary>
+
+  ### Skills
 
  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=tokyonight)
  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=tokyonight)
@@ -24,7 +24,6 @@ My interest lies in the field of Near-field communication and cybersecurity. I m
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-</details>
 
 
 
