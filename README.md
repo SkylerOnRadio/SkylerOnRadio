@@ -84,6 +84,15 @@ My interest lies in the field of Near-field communication and cybersecurity. I m
 </table>
 
 
+<details>
+  <summary>📁 Projects</summary>
+
+  - [My Portfolio Website](https://yourportfolio.com)
+  - [Weather App](https://github.com/username/weather-app)
+  - [AI Chatbot](https://github.com/username/ai-chatbot)
+
+</details>
+
 
 
 ### Socials
