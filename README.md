@@ -89,7 +89,7 @@ My interest lies in the field of Near-field communication and cybersecurity. I m
 ### Socials
 
 <p align="left">
-  <a href="https://www.github.com/AbhigyaDulal" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+  <a href="https://www.github.com/SkylerOnRadio" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
@@ -111,7 +111,7 @@ My interest lies in the field of Near-field communication and cybersecurity. I m
 
 <b>My GitHub Stats</b>
 
-![Abhigya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhigyaDulal&show_icons=true&theme=default)
+![Abhigya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SkylerOnRadio&show_icons=true&theme=default)
 
 
 <a href="https://github.com/AbhigyaDulal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhigyaDulal&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
