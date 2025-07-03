@@ -1,15 +1,13 @@
-Hi 👋 My name is Abhigya Dulal
+Hi, 👋 my name is Abhigya Dulal
 ==============================
 
-Subtitle
+Aspiring developer and programmer
 --------
 
-Long Discription
+My interest lies in the field of Near-field communication and cybersecurity. I make it my motto to learn all that I can indivisually.
 
-* 🌍  I'm based in India
 * ✉️  You can contact me at [abhiyadulal@gmail.com](mailto:abhiyadulal@gmail.com)
-* 🧠  I'm learning Web Development
-* 🤝  I'm open to collaborating on Projects related to web dev but am upto other things if you contact me first.
+* 🧠  I'm learning Web Development, API management, DSA currently
 
 ### Skills
 
