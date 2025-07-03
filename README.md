@@ -55,4 +55,4 @@ My interest lies in the field of Near-field communication and cybersecurity. I m
 ![Abhigya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SkylerOnRadio&show_icons=true&theme=tokyonight)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
