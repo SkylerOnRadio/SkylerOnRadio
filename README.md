@@ -6,7 +6,8 @@ Aspiring developer and programmer
 
 My interest lies in the field of Near-field communication and cybersecurity. I make it my motto to learn all that I can indivisually.
 
-![Uploading tokyo-night.gif…]()
+![tokyo-night](https://github.com/user-attachments/assets/10f2bb48-bcb5-4d80-80c3-2dd4252c4714)
+
 
 * ✉️  You can contact me at [abhiyadulal@gmail.com](mailto:abhiyadulal@gmail.com)
 * 🧠  I'm learning Web Development, API management, DSA currently
