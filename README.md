@@ -111,7 +111,7 @@ My interest lies in the field of Near-field communication and cybersecurity. I m
 
 <b>My GitHub Stats</b>
 
-![Abhigya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SkylerOnRadio&show_icons=true&theme=default)
+![Abhigya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SkylerOnRadio&show_icons=true&theme=tokyonight)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SkylerOnRadio&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SkylerOnRadio&layout=compact&theme=tokyonight)
