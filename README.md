@@ -1,13 +1,12 @@
-# Hi there, I'm Abhigya Dulal 👋
+# Hi there, I'm Abhigya Dulal
 
-## Aspiring Developer & Cybersecurity Enthusiast
+## Avid Programmer and Tech Enthusiast
 
-My interest lies in the fields of **Near-Field Communication (NFC)** and **Cybersecurity**. I make it my motto to learn all that I can individually, constantly building projects and expanding my toolkit.
+I make it my aim to learn as mush as I can about the world of programming, be it DSA, Web Dev, CLI tools, Kernels, etc. I find the entire process of learnign and understanding how to code extremely fullfilling.
 
 ![Tokyo Night Banner](https://github.com/user-attachments/assets/10f2bb48-bcb5-4d80-80c3-2dd4252c4714)
 
 * ✉️ **Contact me:** [abhiyadulal@gmail.com](mailto:abhiyadulal@gmail.com)
-* 🧠 **Currently learning:** Web Development, API management, and DSA
 
 ---
 
