@@ -42,7 +42,7 @@ I make it my aim to learn as mush as I can about the world of programming, be it
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SkylerOnRadio&show_icons=true&theme=tokyonight&hide_border=true" alt="Abhigya's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SkylerOnRadio&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkylerOnRadio&layout=donut-vertical&theme=tokyonight&langs_count=8&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SkylerOnRadio&theme=tokyonight" alt="GitHub Profile Summary" />
 </div>
