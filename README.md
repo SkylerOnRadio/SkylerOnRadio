@@ -11,9 +11,12 @@ I like programming, it is that simple really! The process of creating things tha
 ---
 
 ### 🛠️ Skills & Technologies
-
+<p align="center">
 **Languages:**
-[![My Skills](https://skillicons.dev/icons?i==cpp&theme=dark,js&theme=dard,python&theme=dark)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i==cpp&theme=dark,js&theme=dard,python&theme=dark"/>
+  </a>
+</p>
 
 **Frameworks & Databases:**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
