@@ -11,10 +11,11 @@ I like programming, it is that simple really! The process of creating things tha
 ---
 
 ### 🛠️ Skills & Technologies
+
 <p align="center">
-**Languages:**
+**Languages:**<br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i==cpp&theme=dark,js&theme=dard,python&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=cpp&theme=dark,js&theme=dark,python&theme=dark"/>
   </a>
 </p>
 
