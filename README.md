@@ -12,8 +12,9 @@ I like programming, it is that simple really! The process of creating things tha
 
 ### 🛠️ Skills & Technologies
 
+**Languages**
+
 <p align="center">
-Languages:<br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,js,python&theme=dark"/>
   </a>
