@@ -13,25 +13,18 @@ I like programming, it is that simple really! The process of creating things tha
 ### 🛠️ Skills & Technologies
 
 <p align="center">
-<strong>Languages:</strong>  
+<strong>Languages:</strong><br>  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,js,python&theme=dark"/>
   </a>
 </p>
 
 <p align="center">
-<strong>Frameworks & Databases:</strong>  
+<strong>Frameworks & Databases:</strong><br>  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,react,django,mysql,mongodb&theme=dark"/>
   </a>
 </p>
-**Frameworks & Databases:**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Tools & Environments:**
 
