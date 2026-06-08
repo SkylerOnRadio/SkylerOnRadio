@@ -13,11 +13,7 @@ I like programming, it is that simple really! The process of creating things tha
 ### 🛠️ Skills & Technologies
 
 **Languages:**
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![My Skills](https://skillicons.dev/icons?i==cpp&theme=dark,js&theme=dard,python&theme=dark)](https://skillicons.dev)
 
 **Frameworks & Databases:**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -28,8 +24,6 @@ I like programming, it is that simple really! The process of creating things tha
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Tools & Environments:**
-![Linux Mint](https://img.shields.io/badge/Linux_Mint-87C540?style=for-the-badge&logo=linuxmint&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
