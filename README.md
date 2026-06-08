@@ -1,8 +1,8 @@
-# Hi there, I'm Abhigya Dulal
+# Heyo :3
 
-## Avid Programmer and Tech Enthusiast
+## A bit about me
 
-I make it my aim to learn as mush as I can about the world of programming, be it DSA, Web Dev, CLI tools, Kernels, etc. I find the entire process of learnign and understanding how to code extremely fullfilling.
+I like programming, it is that simple really! The process of creating things that I use and that teaches me new technologies is very exciting to me(isn't that the same for you?). My interest have changed a lot since I have started programming, currently I am interested in low-level and system level programming. You can have a look through my repos to find somethings I have done. Have fun :p
 
 ![Tokyo Night Banner](https://github.com/user-attachments/assets/10f2bb48-bcb5-4d80-80c3-2dd4252c4714)
 
