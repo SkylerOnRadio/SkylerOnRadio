@@ -13,19 +13,25 @@ I like programming, it is that simple really! The process of creating things tha
 ### 🛠️ Skills & Technologies
 
 <p align="center">
-<strong>Languages:</strong><br>  
+<strong>Languages</strong><br><br>  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,js,python&theme=dark"/>
   </a>
 </p>
 
 <p align="center">
-<strong>Frameworks & Databases:</strong><br>  
+<strong>Frameworks & Databases</strong><br><br>  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,react,django,mysql,mongodb&theme=dark"/>
   </a>
 </p>
 
+<p align="center">
+<strong>Tools & Frameworks</strong><br><br>  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,linux,neovim,arch&theme=dark"/>
+  </a>
+</p>
 **Tools & Environments:**
 
 ---
