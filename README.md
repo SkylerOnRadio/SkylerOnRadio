@@ -32,7 +32,6 @@ I like programming, it is that simple really! The process of creating things tha
     <img src="https://skillicons.dev/icons?i=git,linux,neovim,arch&theme=dark"/>
   </a>
 </p>
-**Tools & Environments:**
 
 ---
 
