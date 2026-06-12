@@ -44,9 +44,7 @@ I like programming, it is that simple really! The process of creating things tha
 ### 📊 GitHub Stats
 
 <div align="center">
-  ![](https://komarev.com/ghpvc/?username=your-github-username)
-  <br><br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+  ![](https://komarev.com/ghpvc/?username=SkylerOnRadio)
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SkylerOnRadio&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br><br>
