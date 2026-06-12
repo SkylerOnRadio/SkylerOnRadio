@@ -44,6 +44,8 @@ I like programming, it is that simple really! The process of creating things tha
 ### 📊 GitHub Stats
 
 <div align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SkylerOnRadio&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SkylerOnRadio&theme=tokyonight" alt="GitHub Profile Summary" />
