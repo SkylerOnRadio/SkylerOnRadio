@@ -1,0 +1,19 @@
+name: Metrics
+on:
+  # Schedule updates (run every 24 hours)
+  schedule: [{cron: "0 0 * * *"}]
+  # Allows to manually run the job
+  workflow_dispatch:
+  # Run on every push to the master/main branch
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Use the language plugin
+          plugin_languages: yes
