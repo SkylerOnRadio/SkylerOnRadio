@@ -15,10 +15,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
           
-          # This line completely hides the entire top half visible in image_76545e.png
+          # Force the base layout from image_76545e.png to disappear
           base: "" 
           
-          # This turns on just the language section at the bottom
+          # Enable only the language block
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
