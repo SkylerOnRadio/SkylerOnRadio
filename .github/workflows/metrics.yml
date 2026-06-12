@@ -1,7 +1,7 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}] # Runs every day at midnight
-  workflow_dispatch:              # Allows manual execution
+  schedule: [{cron: "0 0 * * *"}] # Runs daily at midnight
+  workflow_dispatch:              # Allows you to run it manually
   push: {branches: ["master", "main"]}
 
 jobs:
@@ -14,13 +14,13 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
-
-          base: ""
           
-          # --- LANGUAGES PLUGIN CONFIGURATION ---
+          # CRITICAL: This turns off the default profile header/stats
+          base: "" 
+          
+          # --- LANGUAGES ONLY CONFIGURATION ---
           plugin_languages: yes
-          plugin_languages_sections: most-used     # Options: most-used, recently-used
-          plugin_languages_details: bytes-size, percentage, lines # Displays exact line counts
-          plugin_languages_indepth: yes            # Clones and calculates data aggressively
-          plugin_languages_limit: 8                # Max number of languages to display
-          plugin_languages_threshold: 2%           # Hides languages below 2% pool size
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage, lines
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 8
