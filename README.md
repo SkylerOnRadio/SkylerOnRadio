@@ -44,8 +44,7 @@ I like programming, it is that simple really! The process of creating things tha
 ### 📊 GitHub Stats
 
 <div align="center">
-  ![](https://komarev.com/ghpvc/?username=SkylerOnRadio)
-  <br><br>
+![](https://komarev.com/ghpvc/?username=SkylerOnRadio&color=blueviolet&style=flat-square)  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SkylerOnRadio&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SkylerOnRadio&theme=tokyonight" alt="GitHub Profile Summary" />
