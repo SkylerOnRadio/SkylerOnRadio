@@ -49,6 +49,4 @@ I like programming, it is that simple really! The process of creating things tha
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SkylerOnRadio&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SkylerOnRadio&theme=tokyonight" alt="GitHub Profile Summary" />
-
 </div>
